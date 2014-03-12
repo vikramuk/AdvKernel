@@ -1,5 +1,12 @@
+<<<<<<< HEAD
  AdvKernel
 
 Advanced Kernel programming <<http://www.advancedlinuxprogramming.com/alp-folder/advanced-linux-programming.pdf>>
+=======
+AdvKernel
+
+Advanced Kernel programming <<http://www.advancedlinuxprogramming.com/alp-folder
+/advanced-linux-programming.pdf>>
+>>>>>>> 1fcdf3279c4c3813123381f4f3aa5cdb73dcccfd
 
 Thanks to Git for having hosted the code
